@@ -39,7 +39,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/bangkk/proprietary/vendor/etc/qdcm_calib_data_mipi_moto_vid_tm_1080p_dsc_655.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_moto_vid_tm_1080p_dsc_655.xml \
     vendor/motorola/bangkk/proprietary/vendor/etc/qdcm_calib_data_mipi_moto_vid_tm_u8_1080p_dsc_655.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_moto_vid_tm_u8_1080p_dsc_655.xml \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/config/mot_camgest.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/mot_camgest.json \
-    vendor/motorola/bangkk/proprietary/vendor/etc/sensors/config/mot_tap.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/mot_tap.json \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/config/sns_amd.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd.json \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/config/sns_amd_sw_disabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd_sw_disabled.json \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/config/sns_amd_sw_enabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_amd_sw_enabled.json \
@@ -99,7 +98,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/mot_probe.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/mot_probe.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/mot_proxcal.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/mot_proxcal.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/mot_stowed.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/mot_stowed.proto \
-    vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/mot_tap.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/mot_tap.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/mot_vsync.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/mot_vsync.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/nanopb.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/nanopb.proto \
     vendor/motorola/bangkk/proprietary/vendor/etc/sensors/proto/sns_accel.proto:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/proto/sns_accel.proto \
